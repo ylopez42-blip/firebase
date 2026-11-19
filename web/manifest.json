@@ -1,11 +1,11 @@
 {
-    "name": "appfirebase",
-    "short_name": "appfirebase",
+    "name": "Nexo",
+    "short_name": "Nexo",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#F5F5EF",
+    "theme_color": "#173F35",
+    "description": "Nexo organiza tus contactos y datos de cuenta.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
